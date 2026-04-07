@@ -1,0 +1,23 @@
+{
+  "name": "trabalhofinalppi2.0",
+  "version": "1.0.0",
+  "description": "trabalho final de ppi",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/JoaoRaposo01/trabalhofinalppi2.0#readme",
+  "bugs": {
+    "url": "https://github.com/JoaoRaposo01/trabalhofinalppi2.0/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoRaposo01/trabalhofinalppi2.0.git"
+  },
+  "license": "ISC",
+  "author": "João Pedro Campos Raposo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
