@@ -111,7 +111,7 @@ function renderPage({ title, content, user = null }) {
       <div class="hero d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3">
         <div>
           <h1 class="h3 mb-2">${escapeHtml(title)}</h1>
-          <p class="mb-0 opacity-75">Sistema de Biblioteca com visual melhorado para Vercel.</p>
+          <p class="mb-0 opacity-75">.</p>
         </div>
         ${user ? `<div class="text-md-end">
           <div class="badge-soft">Usuário: ${escapeHtml(user)}</div>
